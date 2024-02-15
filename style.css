@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -158,7 +159,7 @@ html, body{
 .page4 img{
     width: 150%;
     height: 150%;
-    margin-right: 5vw;
+    
 }
 
 .leftPage4{
@@ -198,7 +199,7 @@ html, body{
     }
 
     .page1{
-        height: 47vh;
+        height: 20%;
         width: 100%;
         font-size: 4vw;
         flex-direction: column;
@@ -206,19 +207,20 @@ html, body{
     }
     
     .page1 img{
-        height: 200px;
-        width: 250px;
-        margin-bottom: 10vw;
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3vw;
+        margin-left: 13vw;
     }
 
     .leftPage1{
-        padding-top: 20vw;
+        padding-top: 5vw;
         padding-left: 10vw;
         padding-right: 10vw;
     }
 
     .page2{
-        height: 48.5vh;
+        height: 20%;
         width: 100%;
         font-size: 4vw;
         flex-direction: column;
@@ -226,19 +228,20 @@ html, body{
     }
     
     .page2 img{
-        height: 200px;
-        width: 250px;
-        margin-bottom: 10vw;
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3vw;
+        margin-left: 8vw;
     }
 
     .leftPage2{
-        padding-top: 20vw;
+        padding-top: 5vw;
         padding-left: 10vw;
         padding-right: 10vw;
     }
 
     .page3{
-        height: 47vh;
+        height: 20%;
         width: 100%;
         font-size: 4vw;
         flex-direction: column;
@@ -246,19 +249,20 @@ html, body{
     }
     
     .page3 img{
-        height: 200px;
-        width: 250px;
-        margin-bottom: 10vw;
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3vw;
+        margin-left: 8vw;
     }
 
     .leftPage3{
-        padding-top: 20vw;
+        padding-top: 5vw;
         padding-left: 10vw;
         padding-right: 10vw;
     }
 
     .page4{
-        height: 47vh;
+        height: 20%;
         width: 100%;
         font-size: 4vw;
         flex-direction: column;
@@ -266,13 +270,14 @@ html, body{
     }
     
     .page4 img{
-        height: 200px;
-        width: 250px;
-        margin-bottom: 10vw;
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3vw;
+        margin-left: 10vw;
     }
 
     .leftPage4{
-        padding-top: 20vw;
+        padding-top: 5vw;
         padding-left: 10vw;
         padding-right: 10vw;
     }
